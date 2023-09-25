@@ -2,19 +2,20 @@
 
 ### Italics and Bold
 
-Writing in Markdown is _not_ that hard!
-I **will** complete these lessons!
-"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
+Writing in Markdown is _not_ that hard!  
+I **will** complete these lessons!  
+"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+
 
 ### Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
@@ -105,7 +106,7 @@ To doubt they were kneeling then.
 1. Crack three eggs over a bowl.
 
     Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
-If you _do_ make a mess, use a towel to clean it up!  
+   If you _do_ make a mess, use a towel to clean it up!  
 
 2. Pour a gallon of milk into the bowl.
 
